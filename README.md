@@ -6,7 +6,6 @@
 <details open="open">
   <summary> Table of Contents </summary>
   <ol>
-
      <li><a href="#myself"> Myself </a></li>
   </ol>
 </details>
